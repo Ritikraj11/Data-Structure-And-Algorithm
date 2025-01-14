@@ -18,16 +18,33 @@ int main(){
 
     // cout << (5 / 2) << endl ;    // Output is 2 because both the values are integer type
     cout << (5/(double(2))) << endl ; // Now one of the value is not integer so the value is 2.5 and the process is known as typecasting
-    
+
+//  relational operator
+
+    // ==
+    // >
+    // <
+    // <=
+    // >=
+    // !
+
+// logical operator
+
+    // || (or operator) --> true if any one condition is true/
+    // && (and Operator)--> true only if both the statement is true
+    // ! (Not Operator )--> Change true into false and vice - verca
 
 
+    // Uninary Operators
 
+    Increment Operator (++) ==> used to increase a number by 1
 
+            pre increment (++i) ==> pehle update fir kaam
+            post increment (i++)==> pehle kaam fir update 
 
+    Decrement Operator (--) ==> used t0 decrease a number by 1
 
-
-
-
-
+            pre dercrement (--i) ==> pehle update fir kaam
+            post increment (i--)==> pehle kaam fir update 
     return 0;
 }
