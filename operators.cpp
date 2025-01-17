@@ -37,14 +37,19 @@ int main(){
 
     // Uninary Operators
 
-    Increment Operator (++) ==> used to increase a number by 1
+    // Increment Operator (++) ==> used to increase a number by 1
 
-            pre increment (++i) ==> pehle update fir kaam
-            post increment (i++)==> pehle kaam fir update 
+    //         pre increment (++i) ==> pehle update fir kaam
+    //         post increment (i++)==> pehle kaam fir update 
 
-    Decrement Operator (--) ==> used t0 decrease a number by 1
+    // Decrement Operator (--) ==> used t0 decrease a number by 1
 
-            pre dercrement (--i) ==> pehle update fir kaam
-            post increment (i--)==> pehle kaam fir update 
+    //         pre dercrement (--i) ==> pehle update fir kaam
+    //         post increment (i--)==> pehle kaam fir update 
+
+
+    // Ternary Operator
+    
+
     return 0;
 }
