@@ -61,24 +61,42 @@
             //     cout <<"sum: " << sum ;
             // } 
 
-// Q4. To sum of all odd numbers from 1 to n
+// Q4. To sum of all odd numbers from 1 to n using for loop
+
+// #include<iostream>
+// using namespace std;
+
+// int main(){
+//     int n = 5;
+//     int oddSum =0;
+//     cout << "Odd Numbers are : ";
+//     for (int i = 1 ; i<=n; i++){
+        
+//         if(i%2 !=0){
+            
+//             cout << i <<" "<<"\n";
+//             oddSum = oddSum+i;
+//         }
+
+//     }
+// cout<<"Sum : " <<oddSum;
+// return 0;
+// }
+
+// Q5. To sum of all odd numbers from 1 to n using for loop
 
 #include<iostream>
 using namespace std;
-
 int main(){
-    int n = 50;
-    cout << "Odd Numbers are : ";
-    for (int i = 1 ; i<=n; i++){
-        
-        if(i%2 !=0){
-            
-            cout << i <<" ";
+    int n=5,i=1;
+    int oddSum=0;
+    while(i<=n){
+        if(i%2!=0){
+            cout << i <<"\n";
+            oddSum = oddSum+i;
         }
-
+        i++;
     }
-
-return 0;
+    cout<<"Sum : " << oddSum;
+    return 0;
 }
-
-
