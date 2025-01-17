@@ -17,7 +17,7 @@ int main(){
 
 
     // cout << (5 / 2) << endl ;    // Output is 2 because both the values are integer type
-    cout << (5/(double(2))) << endl ; // Now one of the value is not integer so the value is 2.5 and the process is known as typecasting
+    // cout << (5/(double(2))) << endl ; // Now one of the value is not integer so the value is 2.5 and the process is known as typecasting
 
 //  relational operator
 
@@ -35,7 +35,7 @@ int main(){
     // ! (Not Operator )--> Change true into false and vice - verca
 
 
-    // Uninary Operators
+//********      Uninary Operators
 
     // Increment Operator (++) ==> used to increase a number by 1
 
@@ -48,8 +48,10 @@ int main(){
     //         post increment (i--)==> pehle kaam fir update 
 
 
-    // Ternary Operator
-    
-
+// ******     Ternary Operator
+    // syntex : condition ? str1 : str2; 
+ 
+    int n =45;
+    cout << (n>=0?"positive number" : "negetive number");
     return 0;
 }
