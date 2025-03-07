@@ -1,0 +1,36 @@
+
+
+
+Definition of DSA :- Mathematical and Logical model of organising the interrelated data
+
+                    Types of Data structure 
+
+1. Linear :-  Array
+              Linked List
+              Queue
+              Stack
+2. Non-Linear :- Tree
+                 Graph 
+                 Table
+
+
+                 Types of Data structure(Based on Uses)
+
+1. Container --> Array 
+                 Linked List
+
+2. Indexing Class --> Binary Search Tree
+                      AVL Tree
+                      Hash Table
+
+3. Priorities --> Stack
+                  Queue
+                  Heap
+
+
+        Now there is one question arises that Why Data structure ?
+
+    --> So The answer is Very simple , Data structure helps us in such way that input , output and the 
+        intermediate result can be accesed or generated in minimum efforts .
+
+        Note :- Best selection of data structure is important

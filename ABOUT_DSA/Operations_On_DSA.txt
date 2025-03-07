@@ -1,0 +1,41 @@
+                Operations That we can perform on DSA are Mentioned below :::---
+
+    1. Traversing
+    2. Insertion 
+    3. Deletion 
+    4. Searching 
+    5. merging 
+    6. Sorting   
+
+Let me Introduce All the Terms one By one :-
+
+    1. Traversing :- Visiting Each and every elements atleast and atmost one time .
+
+                     Visiting can be anything like Printing element ,Finding any element 
+                     counting the numeber of elements etc.
+
+    2. Insertion :- Adding an Elemtent in any Data structure
+
+                    In Insertion we may see an error :- "Overflow"
+
+            Overflow :--> Overflow means , When data structure Is full then further Insertion is 
+                          not possible .
+
+    3. Deletion :- Removing an element from Data structure
+
+                    In Deletion we may see an error :- "Underflow"
+
+            Underflow :--> Underflow means, When Data structure is Empty and no further Deletion is
+                           is possible
+
+    4. Searching :- Finding an element in data structure and return its location
+
+        ===> Two Results are possible 
+
+            1. Successful Search = Elemtent found
+
+            2. Unsuccessful Search = Elemtent not found
+
+    5. Merging :- Combine Twoo Data structure of same type into one 
+
+    6. Sorting :- Arranging Data structure in either Ascending or descending order.
